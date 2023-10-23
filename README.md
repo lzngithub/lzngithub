@@ -1,1 +1,1 @@
-<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=lzngithub" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lzngithub&layout=compact&langs_count=8" />
+<img align="" height="200px" src="https://github-readme-stats.vercel.app/api?username=lzngithub&rank_icon=github" /><img align="" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lzngithub&layout=compact&langs_count=8" />
