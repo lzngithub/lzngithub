@@ -1,2 +1,1 @@
-![Top Langs](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=lzngithub" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lzngithub&layout=compact&langs_count=8" />
