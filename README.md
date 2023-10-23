@@ -12,7 +12,7 @@
 </td></tr>
 <tr>
   <td>
-    <img align="" height="140px"  src="https://github-readme-stats.vercel.app/api?username=lzngithub&rank_icon=github" />&nbsp;&nbsp;&nbsp;&nbsp;<img align="" height="140px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=lzngithub&layout=compact&langs_count=8" />&nbsp;&nbsp;&nbsp;&nbsp;<img  height="140px" src="https://github-readme-streak-stats.herokuapp.com/?user=sun0225SUN" />
+    <img align="" height="130px"  src="https://github-readme-stats.vercel.app/api?username=lzngithub&rank_icon=github" />&nbsp;&nbsp;&nbsp;&nbsp;<img align="" height="130px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=lzngithub&layout=compact&langs_count=8" />&nbsp;&nbsp;&nbsp;&nbsp;<img  height="130px" src="https://github-readme-streak-stats.herokuapp.com/?user=sun0225SUN" />
   </td>
 </tr>
 
